@@ -1,0 +1,20 @@
+receipt_id,store_location,item_category,price,payment_method,timestamp
+101,Downtown,Electronics,1200.0,Card,2026-03-01 10:15:00
+102,Uptown,Clothing,45.5,Cash,2026-03-01 11:30:00
+103,Downtown,Home Decor,89.99,Card,2026-03-01 12:00:00
+104,Suburbs,Electronics,150.0,Card,2026-03-02 09:45:00
+105,Uptown,Groceries,120.25,Cash,2026-03-02 14:20:00
+106,Downtown,Clothing,65.0,Card,2026-03-02 16:10:00
+107,Suburbs,Home Decor,210.0,Card,2026-03-03 11:05:00
+108,Uptown,Electronics,85.0,Card,2026-03-03 13:55:00
+109,Downtown,Groceries,34.1,Cash,2026-03-03 17:30:00
+110,Suburbs,Clothing,110.0,Card,2026-03-04 10:00:00
+112,Uptown,Home Decor,315.5,Card,2026-03-04 15:40:00
+113,Suburbs,Groceries,55.0,Cash,2026-03-04 18:25:00
+114,Downtown,Clothing,78.25,Card,2026-03-05 09:15:00
+115,Uptown,Electronics,450.0,Card,2026-03-05 12:35:00
+116,Suburbs,Home Decor,42.0,Cash,2026-03-05 14:50:00
+117,Downtown,Groceries,95.4,Card,2026-03-06 11:20:00
+118,Uptown,Clothing,125.0,Card,2026-03-06 16:05:00
+119,Suburbs,Electronics,230.0,Card,2026-03-06 17:45:00
+120,Downtown,Home Decor,15.99,Cash,2026-03-06 19:10:00
